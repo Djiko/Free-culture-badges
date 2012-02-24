@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96.026718"
    inkscape:export-xdpi="96.026718"
-   inkscape:export-filename="/home/gilles/Images/WIP/Badges/PNG/mageia-fr_badge.png"
+   inkscape:export-filename="/home/gilles/Images/WIP/Badges/PNG/openbsd-fr_badge.png"
    style="display:inline"
    sodipodi:docname="openbsd_badges.svg"
    inkscape:version="0.47+devel r9517"
@@ -4574,7 +4574,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="fr_FR"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
@@ -4727,10 +4727,11 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="en_EN"
      id="g3996"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-size:108.02523804px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -4759,7 +4760,7 @@
        id="text4016"
        y="733.92578"
        x="370.50912"
-       style="font-size:50.47291564999999736px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#cf4229;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       style="font-size:50.47291565px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#cf4229;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/gilles/Images/WIP/Badges/debian_fr.png"
        inkscape:export-xdpi="150"
