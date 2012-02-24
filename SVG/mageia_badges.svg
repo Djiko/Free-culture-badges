@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96.026718"
    inkscape:export-xdpi="96.026718"
-   inkscape:export-filename="/home/gilles/Images/WIP/Badges/PNG/mageia-fr_badge.png"
+   inkscape:export-filename="/home/gilles/Images/WIP/Badges/PNG/mageia-en_badge.png"
    style="display:inline"
    sodipodi:docname="mageia_badges.svg"
    inkscape:version="0.47 r22583"
@@ -627,7 +627,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -857,7 +857,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="fr_FR"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
@@ -986,7 +986,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="en_EN"
      id="g3996"
      inkscape:groupmode="layer"
